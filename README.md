@@ -31,7 +31,7 @@ To get the Chat-GPT clone up and running, follow these steps:
 1. **Clone the Repository:** Use Git to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/chat-gpt-clone-django.git
+git clone https://github.com/oluchinwade/chat-gpt-clone-django.git
 ```
 2. **Set Up API Key:** Open the project and set your OpenAI API key in the settings.py file.
 
